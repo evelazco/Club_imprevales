@@ -1,4 +1,4 @@
-# Collaborators
+﻿# Collaborators
 
 Encargado: L.I. Ramon Edgardo Rincon Fernandez 
 
@@ -21,6 +21,37 @@ Encargado: L.I. Ramon Edgardo Rincon Fernandez
 
 ## Programadores y analistas de datos
 
-Apoyo de configuración: Ing. José Luis Cobián Hermosillo 
+- Ing. Saul Hernandez Avila 
+
+- Ing. Carlos Martinez Araiza
+
+- Ing. Cesar Roberto Rivera 
+
+- Ing. Christian Ernesto De la Mora
+
+- Ing. Daniel Medina de la Torre 
+
+- Ing. Diego Armando Chumacera 
+
+- Ing. Edgar Eduardo Perez 
+
+- Ing. Elda Yunery López Castañeda 
+
+- Ing. Francisco Rafael Lamas 
+
+- Ing. Hector Francisco Ramirez Castañeda 
+
+- Ing. Lorenzo Osvaldo Nava Carrillo 
+
+- Ing. Mireya Rubi Bravo Hernandez 
+
+- Ing. Cesar Arturo Ramos Sandoval 
+
+- Ing. Reymundo Gutierrez Tello 
+
+
+## Apoyo de configuración 
+
+- Ing. José Luis Cobián Hermosillo 
 
 
